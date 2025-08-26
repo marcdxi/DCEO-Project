@@ -1,0 +1,47 @@
+{
+  "episode_rewards": [
+    -1.1000000000000008,
+    -1.1000000000000008,
+    -0.2500000000000013,
+    -0.2500000000000013,
+    -1.6000000000000019,
+    -1.1000000000000012,
+    -1.150000000000001,
+    -1.150000000000001
+  ],
+  "env_steps": [],
+  "reward_by_steps": [],
+  "success_by_steps": [],
+  "sliding_window_rewards": [],
+  "window_step_indices": [],
+  "episode_steps": [
+    200,
+    200,
+    200,
+    200,
+    300,
+    200,
+    200,
+    200
+  ],
+  "episode_success": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "episodes_completed": 12,
+  "total_steps": 1000,
+  "step_milestones": [],
+  "milestone_returns": [],
+  "wall_time": [
+    [
+      1000,
+      0.984332799911499
+    ]
+  ]
+}

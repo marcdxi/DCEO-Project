@@ -1,0 +1,25 @@
+Feature-Eigenvector Alignment Results
+===================================
+
+Format: (Feature Index, Eigenvector Index, Cosine Similarity)
+
+1. Feature 10 <-> Eigenvector 4: 0.4620
+2. Feature 7 <-> Eigenvector 5: 0.3939
+3. Feature 0 <-> Eigenvector 15: 0.3872
+4. Feature 12 <-> Eigenvector 5: 0.3812
+5. Feature 5 <-> Eigenvector 8: 0.3726
+6. Feature 17 <-> Eigenvector 4: 0.3685
+7. Feature 19 <-> Eigenvector 10: 0.3671
+8. Feature 14 <-> Eigenvector 3: 0.3572
+9. Feature 13 <-> Eigenvector 9: 0.3415
+10. Feature 9 <-> Eigenvector 2: 0.3376
+11. Feature 2 <-> Eigenvector 9: 0.3303
+12. Feature 6 <-> Eigenvector 5: 0.3287
+13. Feature 16 <-> Eigenvector 5: 0.2977
+14. Feature 8 <-> Eigenvector 5: 0.2827
+15. Feature 18 <-> Eigenvector 19: 0.2721
+16. Feature 4 <-> Eigenvector 7: 0.2717
+17. Feature 15 <-> Eigenvector 1: 0.2556
+18. Feature 3 <-> Eigenvector 11: 0.2548
+19. Feature 1 <-> Eigenvector 7: 0.2496
+20. Feature 11 <-> Eigenvector 14: 0.2467
